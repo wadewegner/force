@@ -15,6 +15,8 @@ A command-line interface to force.com
 
 ##### Compile from Source
 
+Download and install the [Go runtime](https://code.google.com/p/go/downloads/list)
+
     $ go get -u github.com/heroku/force
 
 ### Usage
